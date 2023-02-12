@@ -2,17 +2,17 @@
     "title":"Ссылки МАТЕМАТИКА РИ",
     "link_tree":[
         {"name":"Диагностики", "links":[
-            {"name":"2022", "num":true, "links":[
-                {"name":"Диагностика №1 от 13.02.2022", "link":"https://docs.google.com/spreadsheets/d/1Y43tqrrndeNgJqYKP9wg0iusqy6TvQNv4UZOM7bh_-8/edit?usp=sharing"},
-                {"name":"Диагностика №2 от 13.03.2022", "link":"https://docs.google.com/spreadsheets/d/1jmlqxYGEk_nygAWwLetraeTwOJ1JAhd7f3nSjwRJ8bw/edit#gid=294415825"},
-                {"name":"Диагностика №3 от 17.04.2022", "link":"https://docs.google.com/spreadsheets/d/1OnliQiHocnp3vXLgljuPuAWFnEqEGod3CmasMnfZFxQ/edit?usp=sharing"},
-                {"name":"Диагностика №4 от 15.05.2022", "link":"https://docs.google.com/spreadsheets/d/1Mgsb3FolS0rS0Wp1-JcxrUcHp3mysVoeBfJFBLG4jYI/edit#gid=294415825"}
-            ]},
             {"name":"2023","num":true, "links":[
                 {"name":"Диагностика №1 от 12.02.2023", "link":"https://docs.google.com/spreadsheets/d/1ltKiGUv7219C9QrANmIrW5X3W76SUvLmJY5j-JhMf-U/edit#gid=208254451"},
                 {"name":"Диагностика №2 от **.03.2023", "link":"/404"},
                 {"name":"Диагностика №3 от **.04.2023", "link":"/404"},
                 {"name":"Диагностика №4 от **.05.2023", "link":"/404"}
+            ]},
+            {"name":"2022", "num":true, "links":[
+                {"name":"Диагностика №1 от 13.02.2022", "link":"https://docs.google.com/spreadsheets/d/1Y43tqrrndeNgJqYKP9wg0iusqy6TvQNv4UZOM7bh_-8/edit?usp=sharing"},
+                {"name":"Диагностика №2 от 13.03.2022", "link":"https://docs.google.com/spreadsheets/d/1jmlqxYGEk_nygAWwLetraeTwOJ1JAhd7f3nSjwRJ8bw/edit#gid=294415825"},
+                {"name":"Диагностика №3 от 17.04.2022", "link":"https://docs.google.com/spreadsheets/d/1OnliQiHocnp3vXLgljuPuAWFnEqEGod3CmasMnfZFxQ/edit?usp=sharing"},
+                {"name":"Диагностика №4 от 15.05.2022", "link":"https://docs.google.com/spreadsheets/d/1Mgsb3FolS0rS0Wp1-JcxrUcHp3mysVoeBfJFBLG4jYI/edit#gid=294415825"}
             ]}
         ]},
         {"name":"Презентации","link":"https://drive.google.com/drive/folders/1Blh7J7jU6lF6vZGvMBBkGIuiaxWlxfzp"},
