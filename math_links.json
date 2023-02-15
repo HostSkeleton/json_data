@@ -4,9 +4,9 @@
         {"name":"Диагностики", "links":[
             {"name":"2023","num":true, "links":[
                 {"name":"Диагностика №1 от 12.02.2023", "link":"https://docs.google.com/spreadsheets/d/1ltKiGUv7219C9QrANmIrW5X3W76SUvLmJY5j-JhMf-U/edit#gid=208254451"},
-                {"name":"Диагностика №2 от **.03.2023", "link":"/404"},
-                {"name":"Диагностика №3 от **.04.2023", "link":"/404"},
-                {"name":"Диагностика №4 от **.05.2023", "link":"/404"}
+                {"name":"Диагностика №2 от **.03.2023", "link":"/404.html"},
+                {"name":"Диагностика №3 от **.04.2023", "link":"/404.html"},
+                {"name":"Диагностика №4 от **.05.2023", "link":"/404.html"}
             ]},
             {"name":"2022", "num":true, "links":[
                 {"name":"Диагностика №1 от 13.02.2022", "link":"https://docs.google.com/spreadsheets/d/1Y43tqrrndeNgJqYKP9wg0iusqy6TvQNv4UZOM7bh_-8/edit?usp=sharing"},
