@@ -1,12 +1,10 @@
 {
     "title":"Ссылки МАТЕМАТИКА РИ",
     "link_tree":[
-        {
-            "name":"Результаты ЕГЭ", "links":[
-                {"name": "2023", "link":"https://docs.google.com/spreadsheets/d/1JqmdA2IabjEvpM_c7DMdeqRgDTL_mhxpXBmVWlTZZzk/edit?usp=sharing"}
-            ]
-        },
         {"name":"Диагностики", "links":[
+            {"name":"2024", "num":true, "links":[
+                {"name":"Диагностика №1 от 18.02.2024", "link":"https://docs.google.com/spreadsheets/d/1cKFbp64mrLjRnWw_D4EhaB8I4-c9_bInNn6w5FJ5EQk/edit?usp=sharing"}
+            ]},
             {"name":"2023","num":true, "links":[
                 {"name":"Диагностика №1 от 12.02.2023", "link":"https://docs.google.com/spreadsheets/d/1ltKiGUv7219C9QrANmIrW5X3W76SUvLmJY5j-JhMf-U/edit#gid=208254451"},
                 {"name":"Диагностика №2 от 12.03.2023", "link":"https://docs.google.com/spreadsheets/d/1QjMGWDvbAtipRUuZSPQt_D68GbJ6VL5w_koeBlWp6QA/edit?usp=sharing"},
@@ -20,9 +18,7 @@
                 {"name":"Диагностика №4 от 15.05.2022", "link":"https://docs.google.com/spreadsheets/d/1Mgsb3FolS0rS0Wp1-JcxrUcHp3mysVoeBfJFBLG4jYI/edit#gid=294415825"}
             ]}
         ]},
-        {"name":"Презентации","link":"https://drive.google.com/drive/folders/1Blh7J7jU6lF6vZGvMBBkGIuiaxWlxfzp"},
+        {"name":"Презентации","link":"https://drive.google.com/drive/folders/1PMHP8Ed-NYIzNaoYBGCOqtMQ67DMIb2J"},
         {"name":"Вопросы эксперту","link":"https://docs.google.com/spreadsheets/d/12y_k4ysZpo_5WKCfFlogk1IbpdVxdd9hzDXl5GYXo-M/edit#gid=0"},
-        {"name":"ЕГЭ для нас","link":"https://docs.google.com/spreadsheets/d/1j8kYTW6qdNDF3WMqIZh6VW4zR2L9EAwZlTmMEUhJEPE/edit#gid=0"},
-        {"name":"Штрафы репетиторам","link":"https://docs.google.com/document/d/1sNhLg7g8u-NpF3iQve_ay4M3tm8MikFrvpYqRXMNdyc/edit"}
     ]
 }
