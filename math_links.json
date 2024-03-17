@@ -3,7 +3,8 @@
     "link_tree":[
         {"name":"Диагностики", "links":[
             {"name":"2024", "num":true, "links":[
-                {"name":"Диагностика №1 от 18.02.2024", "link":"https://docs.google.com/spreadsheets/d/1cKFbp64mrLjRnWw_D4EhaB8I4-c9_bInNn6w5FJ5EQk/edit?usp=sharing"}
+                {"name":"Диагностика №1 от 18.02.2024", "link":"https://docs.google.com/spreadsheets/d/1cKFbp64mrLjRnWw_D4EhaB8I4-c9_bInNn6w5FJ5EQk/edit?usp=sharing"},
+                {"name":"Диагностика №2 от 17.03.2024", "link":"https://docs.google.com/spreadsheets/d/16a9ZidnmDiyGA8y22Q1Uj19bzyznlXx1BJpYdfDYCJ8/edit?usp=sharing"}
             ]},
             {"name":"2023","num":true, "links":[
                 {"name":"Диагностика №1 от 12.02.2023", "link":"https://docs.google.com/spreadsheets/d/1ltKiGUv7219C9QrANmIrW5X3W76SUvLmJY5j-JhMf-U/edit#gid=208254451"},
