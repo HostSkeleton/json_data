@@ -1,6 +1,7 @@
 {
     "title":"Ссылки МАТЕМАТИКА РИ",
     "link_tree":[
+        {"name":"Расписание занятий", "link":"https://docs.google.com/spreadsheets/d/1Oi2NT_5maSufxvgmXN5yUCSW7I9DOcpPlcKVW-BQLX8/edit?usp=sharing"},
         {"name":"Диагностики", "links":[
             {"name":"2024", "num":true, "links":[
                 {"name":"Диагностика №1 от 18.02.2024", "link":"https://docs.google.com/spreadsheets/d/1cKFbp64mrLjRnWw_D4EhaB8I4-c9_bInNn6w5FJ5EQk/edit?usp=sharing"},
