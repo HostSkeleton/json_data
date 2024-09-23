@@ -3,6 +3,12 @@
     "link_tree":[
         {"name":"Расписание занятий", "link":"https://docs.google.com/spreadsheets/d/1Oi2NT_5maSufxvgmXN5yUCSW7I9DOcpPlcKVW-BQLX8/edit?usp=sharing"},
         {"name":"Диагностики", "links":[
+            {"name":"2025", "num":true, "links":[
+                {"name":"Диагностика №1 от ##.02.2025", "link":null},
+                {"name":"Диагностика №2 от ##.03.2025", "link":null},
+                {"name":"Диагностика №3 от ##.04.2025", "link":null},
+                {"name":"Диагностика №4 от ##.05.2025", "link":null}
+            ]},
             {"name":"2024", "num":true, "links":[
                 {"name":"Диагностика №1 от 18.02.2024", "link":"https://docs.google.com/spreadsheets/d/1cKFbp64mrLjRnWw_D4EhaB8I4-c9_bInNn6w5FJ5EQk/edit?usp=sharing"},
                 {"name":"Диагностика №2 от 17.03.2024", "link":"https://docs.google.com/spreadsheets/d/16a9ZidnmDiyGA8y22Q1Uj19bzyznlXx1BJpYdfDYCJ8/edit?usp=sharing"},
@@ -22,7 +28,7 @@
                 {"name":"Диагностика №4 от 15.05.2022", "link":"https://docs.google.com/spreadsheets/d/1Mgsb3FolS0rS0Wp1-JcxrUcHp3mysVoeBfJFBLG4jYI/edit#gid=294415825"}
             ]}
         ]},
-        {"name":"Презентации","link":"https://drive.google.com/drive/folders/1PMHP8Ed-NYIzNaoYBGCOqtMQ67DMIb2J"},
+        {"name":"Презентации","link":"https://drive.google.com/drive/folders/1j_uVoVpfFAK77DQYji5mVgfGr5gNvTte"},
         {"name":"Вопросы эксперту","link":"https://docs.google.com/spreadsheets/d/12y_k4ysZpo_5WKCfFlogk1IbpdVxdd9hzDXl5GYXo-M/edit#gid=0"}
     ]
 }
